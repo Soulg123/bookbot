@@ -1,2 +1,2 @@
 # bookbot
-My first repository
+My first git project, be kind!
